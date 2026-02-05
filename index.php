@@ -13,11 +13,11 @@
         <!-- CABEÇALHO DA MINHA PÁGINA  -->
         <header>
             <!-- IMAGEM -->
-            <img src="assets/ifto-logo.png" alt="ifto-logo">
+            <img src="assets/image.jpg" alt="image">
 
             <!-- TÍTULO -->
             <h1>Esse é meu primeiro projeto WEB</h1>
-            <p>Me chamo marcos aluno do 3° período</p>
+            <p>Me chamo gustavo aluno do 3° período</p>
         </header>
 
         <!-- MENU DE NAVEGAÇÃO -->
